@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/huchenghang/Documents/C++算法/chapter1/binary_search_array"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B40, symSize: 0x144 }
+  - { offsetInCU: 0x4662, offset: 0x4662, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x278, symBinAddr: 0x100003DB8, symSize: 0x58 }
+  - { offsetInCU: 0x46A2, offset: 0x46A2, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x354, symBinAddr: 0x100003E94, symSize: 0x2C }
+  - { offsetInCU: 0x71AC, offset: 0x71AC, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B40, symSize: 0x144 }
+  - { offsetInCU: 0x71D4, offset: 0x71D4, size: 0x8, addend: 0x0, symName: __Z19binary_search_arrayIiEiRKT_PS1_i, symObjAddr: 0x144, symBinAddr: 0x100003C84, symSize: 0x108 }
+  - { offsetInCU: 0x725D, offset: 0x725D, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0x24C, symBinAddr: 0x100003D8C, symSize: 0x2C }
+  - { offsetInCU: 0x728F, offset: 0x728F, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x2D0, symBinAddr: 0x100003E10, symSize: 0x84 }
+  - { offsetInCU: 0x72FB, offset: 0x72FB, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x380, symBinAddr: 0x100003EC0, symSize: 0x38 }
+...
