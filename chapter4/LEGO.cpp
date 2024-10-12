@@ -61,3 +61,12 @@ void LEGO::print(int width)
     }
 }
 
+int main()
+{
+    LEGO lego = LEGO(8);
+    point singularity = {0, 0};
+    std::cout << singularity.x << ", " <<singularity.y << std::endl;
+    lego.solve(singularity);
+    lego.print(4);
+    return 0;
+}

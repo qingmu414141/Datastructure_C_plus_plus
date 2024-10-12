@@ -1,4 +1,4 @@
-#include "chapter3/matrix.h"
+#include "../chapter3/matrix.h"
 
 #ifndef LEGO_CLASS
 #define LEGO_CLASS
